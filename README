@@ -1,0 +1,24 @@
+Ejercicio 1:
+
+Tenemos 3 sub redes de la empresa, cada una de ellas tiene 1 PC y un HUB conectados a un Router, cada subred tiene capacidad para 256 Hots
+
+Ademas, todas estan conectadas por una nube para poder pasarse información entre ellas.
+
+
+
+Ejercicio 2:
+
+Tenemos las 5 redes,
+
+en la primera hay 3 sub redes, una para 120 Hosts, otra para 30 y una última para 6, conectadas todas a un Router mediante Switches,
+me da problemas para pasar información entre ellas, no se muy bien por qué.
+
+En la segunda tenemos 8 ordenadores conectados mediantes Switches a un router por DHCP (estan conectados por Switches por falta de entradas)
+
+En la tercera tenemos otra red de DHCP, esta vez con 4 ordenadores
+
+En la cuarta tenemos 5 ordenadores conectados por un Switch al router mediante DHCP y 4 ordenadores (2 de ellos con un Switch) por IP fija.
+
+En la última 4 ordenadores por IP fija (dos de ellos con un Switch)
+
+A la derecha tenemos un intento de servidor para las 3 páginas webs, pero no se como hacerlas.
